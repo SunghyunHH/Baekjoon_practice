@@ -29,6 +29,7 @@ int main() {
 			x = mid + 1;
 		}
 	}
+	// max랑 같을 때까지 돌리니까 x는 결국 max보다 1 클 수 밖에 없음
 	cout << max; 
 	return 0;
 }
